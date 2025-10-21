@@ -89,11 +89,15 @@ Data Modeling – Relationship creation between multiple tables
 Business Analytics – Translating raw sales data into performance insights
 
 🗂️ Project Files
+
 File	Description
+
 SalesPerformanceDashboard.pbix	Power BI Dashboard file
+
 Retail_Sales_Data.xlsx	Dataset used for analysis
-Case_Study_Summary.docx	Written project summary
+
 README.md	Project documentation
+
 🧭 Future Improvements
 
 Add Year-over-Year growth comparisons
