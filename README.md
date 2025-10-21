@@ -1,5 +1,8 @@
 🎯 Sales Performance Dashboard – Regional Insights
 📘 Project Overview
+<img width="884" height="497" alt="image" src="https://github.com/user-attachments/assets/158db02b-3e66-4867-b0d8-770a23cd82a4" />
+
+<img width="875" height="497" alt="image" src="https://github.com/user-attachments/assets/d050152f-8113-4c81-ad1e-c91fb16910f9" />
 
 This Power BI case study focuses on analyzing sales performance, profitability, and target achievement for GlobalTrend Retail Pvt. Ltd., a company selling consumer electronics — Mobiles, Laptops, and Accessories — across four major regions of India: North, South, East, and West.
 
